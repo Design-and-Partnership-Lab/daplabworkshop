@@ -20,3 +20,5 @@ http-server .
 
 ## To do: 
 Go to `index.html` and replace the `?` with your favorite emoji (which you can find by [copy-pasting one from here](https://emojipedia.org/fire/) or by using your emoji keyboard on Mac `CTRL-CMD-SPACE`). 
+
+Then git add, git commit, and git push those changes!
