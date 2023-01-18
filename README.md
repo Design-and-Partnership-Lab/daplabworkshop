@@ -13,4 +13,6 @@ npm install --global http-server
 http-server .
 ```
 
-3. You should see an HTML file displayed on your browser at localhost:3000. :) 
+3. You should see a URL address for you to open on your browser. Go to your browser and type in that address to see the page!
+
+![image](https://user-images.githubusercontent.com/114021042/213301563-6ded8dbf-bf1e-4af5-9d34-7bc73d30ca88.png)
